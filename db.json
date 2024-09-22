@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "14419aca-fe95-4896-93a6-51dc3964074a",
+      "nameEn": "Industrial",
+      "nameVn": "Practical Soft Gloves",
+      "image": "https://loremflickr.com/640/480",
+      "location": "Shoes",
+      "type": 2,
+      "typeLink": 2,
+      "link": "https://sociable-snorer.com.vn"
+    },
+    {
+      "id": "19910f5c-c2d5-45d1-a938-e4f51468d2f8",
+      "nameEn": "Computers",
+      "nameVn": "Handcrafted Soft Ball",
+      "image": "https://loremflickr.com/640/480",
+      "location": "Movies",
+      "type": 2,
+      "typeLink": 2,
+      "link": "https://wiry-writing.com.vn"
+    },
+    {
+      "id": "b5d7352f-b145-4b17-b0aa-42e50493f493",
+      "nameEn": "Health",
+      "nameVn": "Intelligent Granite Tuna",
+      "image": "https://loremflickr.com/640/480",
+      "location": "Games",
+      "type": 2,
+      "typeLink": 2,
+      "link": "https://defiant-tenement.vn"
+    },
+    {
+      "id": "de57d14a-d1f3-4469-ab8e-8d327daca9ab",
+      "nameEn": "Tools",
+      "nameVn": "Elegant Cotton Mouse",
+      "image": "https://loremflickr.com/640/480",
+      "location": "Sports",
+      "type": 2,
+      "typeLink": 2,
+      "link": "https://knobby-phrase.vn"
+    },
+    {
+      "id": "31506f3c-5c2f-47a8-bf82-797d0b55fca6",
+      "nameEn": "Computers",
+      "nameVn": "Luxurious Frozen Chair",
+      "image": "https://loremflickr.com/640/480",
+      "location": "Beauty",
+      "type": 1,
+      "typeLink": 2,
+      "link": "https://high-paranoia.vn"
+    }
+  ]
+}
